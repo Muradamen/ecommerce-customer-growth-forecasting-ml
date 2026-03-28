@@ -101,22 +101,16 @@ Implemented and compared:
 The company can confidently plan for **sustained growth**, enabling better investment in marketing, infrastructure, and scaling strategies.
 
 ---
-
 ## 📊 Visualizations
 
-*(Place your images inside `/images` and update paths)*
+### Customer Growth Trend
+![Growth Trend](image/growth_trend.png)
 
-* Customer Growth Trend
-* Forecast vs Actual Comparison
-* Model Performance Comparison
+### Forecast vs Actual
+![Forecast](image/forecast.png)
 
-```
-images/
- ├── growth_trend.png
- ├── forecast.png
- └── model_comparison.png
-```
-
+### Model Comparison
+![Model Comparison](image/1model_comparison.png)
 ---
 
 ## ⚙️ Installation & Setup
