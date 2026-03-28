@@ -107,7 +107,7 @@ The company can confidently plan for **sustained growth**, enabling better inves
 ![Growth Trend](image/growth_trend.png)
 
 ### Forecast vs Actual
-![Forecast](image/forecast.png)
+![Forecast](image/Forecast.png)
 
 ### Model Comparison
 ![Model Comparison](image/1model_comparison.png)
