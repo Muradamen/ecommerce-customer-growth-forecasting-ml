@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 =======
 # 📈 E-commerce Customer Growth Forecasting
 
