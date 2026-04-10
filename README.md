@@ -174,6 +174,10 @@ ecommerce-customer-growth-forecasting-ml/
 * Business Insight Generation
 
 ---
+## 🌐 Live Demo
+
+🚀 Try the interactive Streamlit app here:  
+👉 https://muradamen-ecommerce-customer-growth-forecasting-ml-app-lsgtrf.streamlit.app/
 
 ## 👨‍💻 Author
 
@@ -188,7 +192,3 @@ ecommerce-customer-growth-forecasting-ml/
 ## ⭐ Support
 
 If you found this project useful or interesting, consider giving it a ⭐ on GitHub!
-
-
-
->>>>>>> aac6b9880f2bcf1eca36a7fb7e0f1aed2d8c1574
